@@ -7,9 +7,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/Goodstasya/Java1/issues/3
+https://github.com/Goodstasya/Java1/issues/5#issue-648787703
 
-https://github.com/Goodstasya/Java1/issues/4
+https://github.com/Goodstasya/Java1/issues/6#issue-648790747
 
 Описание
 
